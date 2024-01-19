@@ -54,5 +54,5 @@ colors: { primary: "hsl(var(--color-primary) /
 
 ## Author
 
-- Frontend Mentor - [@alexmina12](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@alexmina12](https://www.frontendmentor.io/profile/alexmina12)
 - Instagram - [@minaiosif](https://www.instagram.com/minaiosif/)
