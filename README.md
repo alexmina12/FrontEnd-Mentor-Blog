@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/alexmina12/FrontEnd-Mentor-Blog.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/alexmina12/FrontEnd-Mentor-Blog.git)
+- Live Site URL: [Live site URL](https://front-end-mentor-blog-alexmina12.vercel.app/)
 
 ## My process
 
@@ -54,6 +54,5 @@ colors: { primary: "hsl(var(--color-primary) /
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@alexmina12](https://www.frontendmentor.io/profile/yourusername)
 - Instagram - [@minaiosif](https://www.instagram.com/minaiosif/)
