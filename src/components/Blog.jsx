@@ -13,10 +13,10 @@ function Blog() {
               alt="Illustration"
             />
             <div>
-              <h3 className="my-4 bg-primary border rounded-[5px] w-fit px-3 py-1 font-bold">
+              <p className="my-4 bg-primary border rounded-[5px] w-fit px-3 py-1 font-bold">
                 Learning
-              </h3>
-              <h5 className="font-medium my-2">Published 21 Dec 2023</h5>
+              </p>
+              <p className="font-medium my-2">Published 21 Dec 2023</p>
               <h1 className="my-4 text-2xl font-bold hover:text-primary transition-text duration-300">
                 HTML & CSS foundations
               </h1>
